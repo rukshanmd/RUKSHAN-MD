@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## RUKSHAN-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -240,23 +240,23 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`RUKSHAN-MD BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
-|**[`Prabath Kumara`](https://github.com/prabathLK)**|
+|**[`RUKSHAN MD`](https://github.com/prabathLK)**|
 
 ---
 
 <a href="https://github.com/SACHIBOT"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`Sachintha Rashan`](https://github.com/SACHIBOT)**|
+|**[`CYBER CRAZY`](https://github.com/SACHIBOT)**|
 
 ---
 
 ## ❤️‍🩹 Special Thanks to
-* [`vihangayt0`](https://github.com/vihangayt0/)
+* [`rukshanmd`](https://github.com/vihangayt0/)
 
 <br>
 <br>
@@ -269,6 +269,6 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-`Release date:- 2023.08.24`
+`Release date:- 2025.07.2`
 <br>
-`latest updated date:- 2024.02.16`
+`latest updated date:- 2025.07.2`
